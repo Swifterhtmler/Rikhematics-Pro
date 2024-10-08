@@ -2,7 +2,7 @@
 
 This is a improved version of the old rikhematics
 
-##Install
+##Install##
 
 ```
 git clone https://github.com/Swifterhtmler/Rikhematics-Pro.git
